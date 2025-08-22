@@ -22,7 +22,7 @@ Found top and bottom students
 
 ⚙️ Tools Used
 
-Python (Pandas, Matplotlib, Seaborn)
+Python (Pandas, Matplotlib)
 Jupyter Notebook
 
 📊 Key Insights
