@@ -5,16 +5,16 @@ These charts help make trends and relationships clearer for analysis.
 
 🔹 Charts Covered
 
-Interactive Line Chart (Plotly)
-Interactive Scatterplot (Plotly)
-Bubble Chart with Size Encoding
-Scatterplot with Regression Line (Seaborn)
-Polynomial Fit for Non-linear Trends
-Pairplot for Relationships
-Subplots for Multi-Metric Analysis
-Dual-Axis Sales vs Profit Trend
-Rolling Average Trend Lines
-Aggregated Monthly/Weekly Trends
+Interactive Line Chart (Plotly).   
+Interactive Scatterplot (Plotly).   
+Bubble Chart with Size Encoding.   
+Scatterplot with Regression Line (Seaborn).   
+Polynomial Fit for Non-linear Trends.   
+Pairplot for Relationships.   
+Subplots for Multi-Metric Analysis.   
+Dual-Axis Sales vs Profit Trend.   
+Rolling Average Trend Lines.   
+Aggregated Monthly/Weekly Trends.   
 
 🚀 Key Learnings
 Use aggregation & rolling averages to smooth noisy data
